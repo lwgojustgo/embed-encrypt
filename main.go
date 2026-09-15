@@ -15,7 +15,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/abakum/embed-encrypt/encryptedfs"
+	"github.com/lwgojustgo/embed-encrypt/encryptedfs"
 )
 
 var (

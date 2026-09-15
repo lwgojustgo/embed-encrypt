@@ -1,3 +1,3 @@
-module github.com/abakum/embed-encrypt
+module github.com/lwgojustgo/embed-encrypt
 
 go 1.20

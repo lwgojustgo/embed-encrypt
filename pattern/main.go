@@ -5,7 +5,7 @@ import (
 	"io/fs"
 	"log"
 
-	"github.com/abakum/embed-encrypt/encryptedfs"
+	"github.com/lwgojustgo/embed-encrypt/encryptedfs"
 )
 
 // try pass unexists file

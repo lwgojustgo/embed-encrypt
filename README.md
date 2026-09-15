@@ -15,7 +15,7 @@ go1.19 download
 
 ## How to Install
 ```bash
-go1.19 get github.com/abakum/embed-encrypt
+go1.19 get github.com/lwgojustgo/embed-encrypt
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ embed-encrypt
 or if you haven't added `GOBIN` to your `PATH`
 
 ```bash
-go run github.com/abakum/embed-encrypt
+go run github.com/lwgojustgo/embed-encrypt
 ```
 
 This generates an aes encrypted version for all embedded files, 

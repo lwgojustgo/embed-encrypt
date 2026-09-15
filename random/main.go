@@ -4,10 +4,10 @@ import (
 	"io/fs"
 	"log"
 
-	"github.com/abakum/embed-encrypt/encryptedfs"
+	"github.com/lwgojustgo/embed-encrypt/encryptedfs"
 )
 
-//go:generate go run github.com/abakum/embed-encrypt random
+//go:generate go run github.com/lwgojustgo/embed-encrypt random
 
 // try pass unexists file
 //

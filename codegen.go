@@ -7,7 +7,7 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/abakum/embed-encrypt/encryptedfs"
+	"github.com/lwgojustgo/embed-encrypt/encryptedfs"
 )
 
 func generateCode(pkgName string, directives []directive) error {
